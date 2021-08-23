@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/git-reactPage/static/css/main.77048505.chunk.css",
+    "main.js": "/git-reactPage/static/js/main.c63fbbe0.chunk.js",
+    "main.js.map": "/git-reactPage/static/js/main.c63fbbe0.chunk.js.map",
+    "runtime-main.js": "/git-reactPage/static/js/runtime-main.5a252542.js",
+    "runtime-main.js.map": "/git-reactPage/static/js/runtime-main.5a252542.js.map",
+    "static/css/2.818011ed.chunk.css": "/git-reactPage/static/css/2.818011ed.chunk.css",
+    "static/js/2.8a88cc93.chunk.js": "/git-reactPage/static/js/2.8a88cc93.chunk.js",
+    "static/js/2.8a88cc93.chunk.js.map": "/git-reactPage/static/js/2.8a88cc93.chunk.js.map",
+    "index.html": "/git-reactPage/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/git-reactPage/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.77048505.chunk.css.map": "/git-reactPage/static/css/main.77048505.chunk.css.map",
+    "static/js/2.8a88cc93.chunk.js.LICENSE.txt": "/git-reactPage/static/js/2.8a88cc93.chunk.js.LICENSE.txt",
+    "static/media/big2.50f93197.jpg": "/git-reactPage/static/media/big2.50f93197.jpg",
+    "static/media/bigpic.ca3e854e.jpg": "/git-reactPage/static/media/bigpic.ca3e854e.jpg",
+    "static/media/bundle2.ed8823d0.jpg": "/git-reactPage/static/media/bundle2.ed8823d0.jpg",
+    "static/media/capsule.64795aa0.jpg": "/git-reactPage/static/media/capsule.64795aa0.jpg",
+    "static/media/multi.c5419492.jpg": "/git-reactPage/static/media/multi.c5419492.jpg",
+    "static/media/prag.7f161c48.jpg": "/git-reactPage/static/media/prag.7f161c48.jpg",
+    "static/media/protin.23b88a1e.jpg": "/git-reactPage/static/media/protin.23b88a1e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a252542.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.8a88cc93.chunk.js",
+    "static/css/main.77048505.chunk.css",
+    "static/js/main.c63fbbe0.chunk.js"
+  ]
+}
