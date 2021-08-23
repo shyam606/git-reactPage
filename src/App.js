@@ -1,25 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import React from 'react';
+import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
+// import { Switch,Route,Redirect } from 'react-router';
+import Navbar from './Navbar';
+import Sec1 from './Sec1';
+import Sec2 from './Sec2';
+import Sec3 from './Sec3';
+import Sec4 from './Sec4';
+const App = ()=>{
+    return(<>
+        <Navbar/>
+        <Sec1/>
+        <Sec2/>
+        <Sec3/>
+        <Sec4/>
+    </>)
 }
-
 export default App;
